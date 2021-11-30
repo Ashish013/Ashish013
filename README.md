@@ -4,7 +4,7 @@
 Data Science and Artificial Intelligence Undergraduate at [IIIT-NR](https://www.iiitnr.ac.in/). Computer Vision enthusiast with a passion for Applied AI in social good (Healthcare, Entertainment etc). Fascinated by everything that's CS related. [@AIML-Club-IIITNR](https://github.com/AIML-Club-IIITNR) Club Secretary. Email me for club collaborations!
 
 - 🔭 Bachelor's degree in **Data Science and Artificial Intelligence** at IIIT-NR
-- 🌱 Interests: **Multi modal learning,  Representation Learning** and **Explainable AI**
+- 🌱 Interests: **Generative AI, Representation Learning** and **Multi modal learning**
 - ⚙️ Currently learning: **3D Computer Vision, GNN's** and **Web Developement**
 - 👯 I ocassionaly code FPS games in unity and post ML blogs on my [webiste](https://ashish013.github.io/) (PS: Work in progress)
 - 💬 I'm mostly active on Twitter, GitHub and Pytorch forums
