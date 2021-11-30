@@ -1,7 +1,7 @@
 # Hello, I'm Ashish 👋
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
-[![](https://komarev.com/ghpvc/?username=ashish013&color=orange&label=visitors)](https://github.com/antonkomarev/github-profile-views-counter)  
+[![](https://komarev.com/ghpvc/?username=ashish013&color=orange&label=Visitors)](https://github.com/antonkomarev/github-profile-views-counter)  
 Data Science and Artificial Intelligence Undergraduate at [IIIT-NR](https://www.iiitnr.ac.in/). Computer Vision enthusiast with a passion for Applied AI in social good (Healthcare, Entertainment etc). Fascinated by everything that's CS related. [@AIML-Club-IIITNR](https://github.com/AIML-Club-IIITNR) Club Secretary. Email me for club collaborations!
 
 - 🔭 Bachelor's degree in **Data Science and Artificial Intelligence** at IIIT-NR
