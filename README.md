@@ -2,13 +2,13 @@
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 [![](https://komarev.com/ghpvc/?username=ashish013&color=orange&label=Visitors)](https://github.com/antonkomarev/github-profile-views-counter)  
-Data Science and Artificial Intelligence Undergraduate at [IIIT-NR](https://www.iiitnr.ac.in/). Computer Vision enthusiast with a passion for Applied AI in social good (Healthcare, Entertainment etc). Fascinated by everything that's CS related. [@AIML-Club-IIITNR](https://github.com/AIML-Club-IIITNR) Club Secretary. Email me for club collaborations!
+Data Science and Artificial Intelligence Undergraduate at [IIIT-NR](https://www.iiitnr.ac.in/). Computer Vision enthusiast with a passion in Applied AI for social good (Healthcare, Entertainment etc.). Fascinated by everything that's CS related. [@AIML-Club-IIITNR](https://github.com/AIML-Club-IIITNR) Club Secretary. Email me for club collaborations!
 
-- 🔭 Bachelor's degree in **Data Science and Artificial Intelligence** at IIIT-NR
-- 🌱 Interests: **Generative AI, Representation Learning** and **Multi modal learning**
+<!--- - 🔭 Bachelor's degree in **Data Science and Artificial Intelligence** at IIIT-NR ---> 
+- 🌱 Interests: **Deep Learning, Computer Vision, Generative AI** and **Multi modal learning**
 - ⚙️ Currently learning: **3D Computer Vision, GNN's** and **Web Developement**
 - 👯 I ocassionaly code FPS games in unity and post ML blogs on my [webiste](https://ashish013.github.io/) (PS: Work in progress)
-- 💬 I'm mostly active on Twitter, GitHub and Pytorch forums
+- 💬 I'm usually found scrolling over Linkedin, listening to Twitter Spaces, or reading GitHub Blogs.
 
 Follow me on Github: ![GitHub followers](https://img.shields.io/github/followers/Ashish013?label=Follow&style=social)  
 Follow me on Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/AshishMarisetty?label=Follow&style=social)  
