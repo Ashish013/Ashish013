@@ -3,18 +3,18 @@
 
 [![](https://komarev.com/ghpvc/?username=ashish013&color=orange&label=Visitors)](https://github.com/antonkomarev/github-profile-views-counter)  
 
-I am a data science and artificial intelligence graduate from [IIIT-NR](https://www.iiitnr.ac.in/). I'm currently working with the [Content Distribution](https://www.sonyresearchindia.com/research-areas/#sec3) team at Sony Research India on efficient video distribution. Previously, I interned at the [STARS](https://team.inria.fr/stars/en/research/) Team at INRIA and the AI team at [HyperVerge](https://hyperverge.co/).
+I am a Carnegie Mellon graduate student studying AI/NLP. I am broadly interested in working in the intersection of vision and language and making it efficient. Previously, I interned at the Content Distribution Team at [Sony Research India](https://www.sonyresearchindia.com/),  [STARS](https://team.inria.fr/stars/en/research/) Team at INRIA, and the AI team at [HyperVerge](https://hyperverge.co/).
 
 <!--- - 🔭 Bachelor's degree in **Data Science and Artificial Intelligence** at IIIT-NR ---> 
-- 🌱 Interests: **Video Deep Learning, Efficient ML, Multimodal AI** and **Generative AI**.
-- 📚 Currently learning: **3D Computer Vision (NeRF, Gaussian Splatting), GNN's** and **Systems**.
+- 🌱 Interests: **Video Deep Learning, LLM, Efficient ML, Multimodal AI** and **Generative AI**.
+- 📚 Currently learning: **VLM, Robotics** and **Systems**.
 - 🌴 Hobbies: Photography, roller skating, playing the ukulele.
 - 🕹️ I occasionally code fps games in Unity and try to write paper reviews.
 
 ### 📬 Get in Touch
 
 - Twitter: [twitter.com/AshishMarisetty](https://twitter.com/AshishMarisetty)
-- E-mail: mashish1305@gmail.com / marisetty19102@iiitnr.edu.in
-- LinkedIn: [linkedin.com/ashish-marisetty](https://www.linkedin.com/in/ashish-marisetty-72136b191/)
+- E-mail: amariset@andrew.cmu.edu
+- LinkedIn: [linkedin.com/ashish-marisetty](https://www.linkedin.com/in/ashish-marisetty/)
 
 <!--- ![Ashish Marisetty's github stats](https://github-readme-stats.vercel.app/api?username=Ashish013&show_icons=true&hide_border=true) ---> 
